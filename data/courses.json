@@ -228,7 +228,7 @@
         
             "id":2,
             "course_name":"Basics Of C++",
-            "course_rating":4.5,
+            "course_rating":4.6,
             "instructor_name":"David Bombal",
             "instructor_image":"https://davidbombal.com/wp-content/uploads/2022/06/logo.png",
              "course_topics":[
